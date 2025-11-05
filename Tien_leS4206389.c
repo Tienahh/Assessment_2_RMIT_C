@@ -26,14 +26,13 @@ int main (){
 
   //using a switch instead of a do while loop (you did this in class (week 15))
   switch (menuchoice)
-  {
-  case 1:
-
+  { 
+    case 1:
+    
     break;
-
-  default:
+    default:
     break;
-  }
 
     return 0;
   }
+}
